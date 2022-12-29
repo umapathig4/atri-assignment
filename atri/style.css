@@ -1,0 +1,50 @@
+*
+{
+  text-decoration: none;
+}
+body
+{
+  margin: 0;
+  font-family: IBM Plex Sans;
+}
+.topnav
+{
+  overflow: hidden;
+  background-color: white;
+  padding: 40px;
+}
+.topnav a 
+{
+  color: black;
+  text-decoration: none;
+}
+.topnav .logo
+{
+  float: left;
+  font-size: 25px;
+  padding: 10px;
+  
+
+}
+.topnav .dot 
+{
+  color: orange;
+}
+.topnav .nav-links
+{
+  float: right;
+  padding: 30px;
+
+}
+.topnav a 
+{
+  font-size: 17px;
+  padding-right: 30px;
+  text-decoration: none;
+
+}
+.topnav .nav-links a:hover
+{
+  color: gray;
+}
+
